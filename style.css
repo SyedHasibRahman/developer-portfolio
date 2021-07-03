@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 130px;
 }
 .top-banner{
     background-image: url(img/top-banner.png);
@@ -23,7 +24,7 @@ section{
 .welcome img{
     width: 90%;
 }
-.welcome-butto{
+.link-butto{
     text-decoration: none;
     text-transform: uppercase;
     background-image: linear-gradient(orange, tomato);
@@ -31,4 +32,12 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-big p{
+    padding-right: 110px;
 }
