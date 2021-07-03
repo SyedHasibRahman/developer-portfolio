@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.welcome{
+    width: 50%;
+    float: left;
+}
+.welcome-img{
+    width: 50%;
+    float: left; 
+}
